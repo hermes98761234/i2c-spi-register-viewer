@@ -1,0 +1,28 @@
+{
+  "name": "I2C / SPI Register Viewer",
+  "short_name": "I2C / SPI Re",
+  "description": "Browse I2C and SPI device addresses and register maps for BME280, MPU6050, SSD1306, INA219, ADS1115 and more. Find I2C address conflicts and decode any register value into bitfields. Runs in your browser.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f5f7",
+  "theme_color": "#4338ca",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

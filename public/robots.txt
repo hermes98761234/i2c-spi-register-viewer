@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hermes98761234.github.io/i2c-spi-register-viewer/sitemap.xml
